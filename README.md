@@ -1,4 +1,4 @@
-# AI Spend Audit & Subscription Optimizer
+# SpendIQ — AI Subscription & Cost Optimizer
 
 An intelligent, privacy-first web application designed to help developers, creators, and teams track their monthly AI tool subscriptions (ChatGPT, Claude, Cursor, GitHub Copilot, Midjourney), detect duplicate licenses, visualize spending breakdown, and uncover instant monthly & annual savings.
 

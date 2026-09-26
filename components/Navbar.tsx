@@ -18,10 +18,10 @@ export default function Navbar() {
           </div>
           <div>
             <span className="font-bold text-lg text-white group-hover:text-indigo-400 transition">
-              AI Spend Audit
+              SpendIQ
             </span>
             <span className="text-[10px] text-zinc-400 block -mt-1">
-              Subscription Cost Tracker
+              AI Subscription Auditor
             </span>
           </div>
         </Link>

@@ -19,10 +19,11 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "AI Spend Audit | Cut AI Subscription Waste & Optimize Spend",
+  title: "SpendIQ | AI Subscription & Cost Optimizer",
   description:
     "Free instant auditor for tech teams. Detect redundant code assistants (Cursor + Copilot), multi-LLM overlap, and unassigned seats to save 25-45% annually.",
   keywords: [
+    "SpendIQ",
     "AI spend audit",
     "cut AI costs",
     "Cursor pricing",
@@ -32,11 +33,11 @@ export const metadata: Metadata = {
     "AI subscription management",
   ],
   openGraph: {
-    title: "AI Spend Audit — Stop Overpaying For AI Tools",
+    title: "SpendIQ — Stop Overpaying For AI Tools",
     description:
       "Audit your company's AI stack instantly. Uncover hidden redundancies, seat waste, and monthly savings.",
     type: "website",
-    url: "https://ai-spend-audit-dun.vercel.app",
+    url: "https://spendiq.vercel.app",
   },
 };
 

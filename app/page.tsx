@@ -37,7 +37,7 @@ export default function Home() {
             href="/audit"
             className="inline-flex items-center gap-2 bg-indigo-600 hover:bg-indigo-500 text-white px-7 py-3.5 rounded-xl font-semibold text-sm shadow-lg shadow-indigo-600/30 transition active:scale-95"
           >
-            <span>Start AI Spend Audit</span>
+            <span>Start SpendIQ Audit</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
 
