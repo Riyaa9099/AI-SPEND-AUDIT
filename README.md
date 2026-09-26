@@ -2,7 +2,7 @@
 
 An intelligent, privacy-first web application designed to help developers, creators, and teams track their monthly AI tool subscriptions (ChatGPT, Claude, Cursor, GitHub Copilot, Midjourney), detect duplicate licenses, visualize spending breakdown, and uncover instant monthly & annual savings.
 
-🔗 **Live Demo**: [Add Your Vercel URL Here]
+🔗 **Live Demo**:ai-spend-audit1-gamma.vercel.app
 
 ---
 
