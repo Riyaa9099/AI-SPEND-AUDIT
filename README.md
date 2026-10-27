@@ -5,15 +5,15 @@ An intelligent, privacy-first web application designed to help developers, creat
 🔗 **Live Demo**: https://ai-spend-audit1-gamma.vercel.app/
 ---
 
-## ✨ Features
+## Features
 
-- **📊 Visual Spending Breakdown**: Interactive Donut/Pie Chart powered by Recharts showing cost distribution across your AI stack.
-- **⚡ Duplicate Tool & Redundancy Detection**: Automatically identifies overlapping subscriptions (e.g. paying for both Cursor and GitHub Copilot simultaneously).
-- **💡 Plan Right-Sizing Recommendations**: Suggests tier downgrades when small teams overpay for enterprise or multi-seat tiers.
-- **📈 AI Efficiency Score**: Dynamic 0–100 health rating that reflects how well-optimized your spending is.
-- **🌐 Multi-Currency Support**: Switch between USD (`$`), INR (`₹`), EUR (`€`), and GBP (`£`) with real-time recalculations.
-- **📄 Instant Audit Report Export**: Download a clean, formatted `.txt` executive summary with one click.
-- **🔒 100% Private (Client-Side Persistence)**: Stores data in browser `localStorage`. No external databases, no logins, no credit card connections required.
+- **Visual Spending Breakdown**: Interactive Donut/Pie Chart powered by Recharts showing cost distribution across your AI stack.
+- **Duplicate Tool & Redundancy Detection**: Automatically identifies overlapping subscriptions (e.g. paying for both Cursor and GitHub Copilot simultaneously).
+- **Plan Right-Sizing Recommendations**: Suggests tier downgrades when small teams overpay for enterprise or multi-seat tiers.
+- **AI Efficiency Score**: Dynamic 0–100 health rating that reflects how well-optimized your spending is.
+- **Multi-Currency Support**: Switch between USD (`$`), INR (`₹`), EUR (`€`), and GBP (`£`) with real-time recalculations.
+- **Instant Audit Report Export**: Download a clean, formatted `.txt` executive summary with one click.
+- **100% Private (Client-Side Persistence)**: Stores data in browser `localStorage`. No external databases, no logins, no credit card connections required.
 
 ---
 
@@ -29,7 +29,7 @@ An intelligent, privacy-first web application designed to help developers, creat
 
 ---
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed (v18 or higher recommended).
@@ -54,7 +54,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ai-spend-audit/
@@ -81,5 +81,5 @@ ai-spend-audit/
 
 ---
 
-## 📝 License
+## License
 This project is open source and available under the [MIT License](LICENSE).
